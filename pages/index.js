@@ -1,5 +1,5 @@
 function Home() {
-    return <div><h1>Página teste do novo Branch</h1></div>
+    return <div>James Willian</div>
 }
 
 export default Home
